@@ -58,3 +58,6 @@ nosetests.xml
 *.bin
 *.001
 *.raw
+
+# virtual environment
+venv/*
